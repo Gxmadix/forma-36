@@ -41,7 +41,8 @@
     "react-modal": "^3.11.2",
     "react-popper": "^2.2.3",
     "react-transition-group": "^2.4.0",
-    "truncate": "^2.0.1"
+    "truncate": "^2.0.1",
+    "type-fest": "^0.20.2"
   },
   "devDependencies": {
     "@size-limit/preset-big-lib": "^4.5.5",
